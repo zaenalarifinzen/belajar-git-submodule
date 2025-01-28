@@ -3,5 +3,5 @@ function sayHello(name){
 }
 
 function sayGuest(){
-    return "Hello"
+    return "Hello Guest"
 }
